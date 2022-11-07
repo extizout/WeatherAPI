@@ -1,0 +1,15 @@
+{
+  "name": "weatherapiproject",
+  "version": "1.0.0",
+  "description": "Learning to sending POST request to root route before sending GET request to openWeather API (External API)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Poom",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  }
+}
